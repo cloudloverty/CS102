@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - border
+  - beeper
+  - Enemy
+  - key
+  - Door
+  - subKey
+  - subDoor
+  - CameraItem
+  - turnLeft
+  - Eve
+  - waitEve
+  - enemyFront
+  - enemyBack
+  - enemyBackFlipped
+  - potion
+  - invisiblePlayer
+  - wallEBuffed
+  - tip
+  - enemySideLeft
+  - enemyThreeHeadBack
+  - enemyThreeHeadFront
+  - enemyHorrorFront
+  - enemyHorrorBack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 775025261
+    locked: 0
+  - name: Map
+    uniqueID: 4061527235
+    locked: 0
+  - name: Border
+    uniqueID: 2073181019
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    uniqueID: 1615338957
+    locked: 0
+  - name: Character
+    uniqueID: 1664627963
+    locked: 0
+  - name: Foreground
+    uniqueID: 628278127
+    locked: 0
